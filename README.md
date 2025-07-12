@@ -123,4 +123,4 @@ Finally, recommend strategies to manage customer churn based on our observations
 
 ## Contact
 
-Created by [@pawankumar191219](https://github.com/pawan-kumar-gurugram)
+Created by [@pawan-kumar-gurugram](https://github.com/pawan-kumar-gurugram)
